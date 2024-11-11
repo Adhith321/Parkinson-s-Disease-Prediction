@@ -1,4 +1,3 @@
-Parkinson's Disease Prediction
 This repository provides a comparative analysis of three machine learning models – Support Vector Machine (SVM), Random Forest (RF), and Naive Bayes (NB) – for predicting Parkinson’s disease. The goal is to identify which model offers the best accuracy, reliability, and efficiency for detecting early signs of Parkinson’s using clinical and vocal features.
 
 Overview
